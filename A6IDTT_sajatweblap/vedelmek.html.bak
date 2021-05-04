@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="hu">
+
+ <head>
+  <meta charset="UTF-8">
+  <title> Villamos védelmek és autómatikák </title>
+ </head>
+ 
+ <body style="background:transparent; color:black; font-family:tahoma; font-size:10pt">
+
+	<br><br><br>
+	<img src="kepek/vedelem1.jpg" height="200" border="0" alt="" style="float:right">
+
+	<font style="font-size:14pt"><b>Villamos védelmek és autómatikák</b></font>
+
+	<br><br>
+
+	Ez az oldal a <strong><em>Villamos védelmek ás autómatikák</em></strong> című tantárgy tematikáját tartalmazza.
+
+	<br><br>
+
+	<b>Feladata és célja:</b>
+	Megismerni a villamos energia rendszerben alkalmazott zárlat- és földzárlatvédelmi rendszert, az
+alkalmazott védelmeket, valamint az üzemzavari és üzemviteli automatikákat. Megismerni a védelem
+beállítási számításokat és alkalmazni a korábban megismert zárlatszámítási módszereket. Cél az
+áramszolgáltatói és ipari gyakorlatban használható, alapvető ismeretek átadása.
+
+	<br><br>
+
+	<b>Tematika</b>
+
+	<ul>
+		<li>A magyar villamos energia rendszer felépítése, védelmi stratégiák a feszültségszinttől és a hálózat
+topológiájától függően.
+		<li>Védelmek, automatikák feladata, követelmények. Kapcsolat a
+környezettel, a technológiával.
+		<li>Az alkalmazott zárlatszámítási módszerek áttekintése. Hálózati hibák
+érzékelésének lehetőségei.
+		<li>A védelmek szelektív beállításának elve, feltételei. Túláramvédelmek
+alkalmazása és korlátai, beállításuk számítása különböző hálózatképek, berendezések esetén. Impedancia
+relék működési elve
+		<li>Érzékelési egyenletek és zárlatfajták kapcsolata. Szelektív beállítás feltételei,
+karakterisztikák. Távolsági védelem fő részei. 
+		<li>Érzékelési egyenletek, szelektív beállítás feltételei,
+karakterisztikák. Érzékelést torzító hatások. 
+		<li>Kölönbözeti védelmek működési elve. Transzformátor
+differenciálvédelmek, kiegyenlítés számítása. Szakasz-védelmek. 
+		<li>Gyűjtősín diszpozíciók, gyűjtősín
+differenciál-védelmek. Digitális (numerikus) védelmek.
+		<li>Érzékelési egyenletek, algoritmusok. Zavaró jelek
+és azok kiszűrésének lehetőségei.
+		<li>Üzemzavari-, és üzemviteli automatikák feladata, működési feltételeik.
+Védelem-automatika üzemmódok koordinálása. 
+		<li>Alkalmazott zárlat-, és földzárlatvédelmi rendszerek.
+Komplex védelmek.
+		<li>Az alállomási irányítási rendszer és a védelmi rendszer együttműködése. Mérőváltók
+jellemzői, kapcsolásai, speciális mérési módszerek, ellenőrző mérések.
+
+	</ul>
+
+ </body>
+</html>
